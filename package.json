@@ -1,7 +1,7 @@
 {
   "name": "@rfgamaral/parcel-plugin-typings-for-css-modules",
   "description": "A plugin for the Parcel bundler to generate .d.ts files for your CSS Modules.",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "main": "./lib/index.js",
   "author": {
     "name": "Ricardo Amaral",
