@@ -44,7 +44,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "3.0.4",
     "@semantic-release/git": "7.0.16",
-    "commitizen": "3.1.1",
+    "commitizen": "4.0.3",
     "cz-conventional-changelog": "3.0.2",
     "parcel-bundler": "1.12.3",
     "prettier": "1.18.2",
