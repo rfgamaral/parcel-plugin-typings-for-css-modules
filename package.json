@@ -46,7 +46,7 @@
     "@semantic-release/git": "7.0.16",
     "commitizen": "4.0.3",
     "cz-conventional-changelog": "3.0.2",
-    "parcel-bundler": "1.12.3",
+    "parcel-bundler": "1.12.4",
     "prettier": "1.18.2",
     "semantic-release": "15.13.27"
   },
