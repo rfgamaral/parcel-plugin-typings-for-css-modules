@@ -62,4 +62,4 @@ Thank you [@garthenweb](https://github.com/garthenweb) and [@Place1](https://git
 
 ## License
 
-Use of this source code is governed by an MIT-style license that can be found in the [LICENSE](LICENSE) file.
+The use of this source code is governed by an MIT-style license that can be found in the [LICENSE](LICENSE) file.
