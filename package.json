@@ -21,17 +21,19 @@
     "types",
     "typescript"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib/**/*",
+    "LICENSE",
+    "README.md"
+  ],
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "publishConfig": {
-    "access": "public"
-  },
-  "files": [
-    "lib/**/*"
-  ],
   "scripts": {
     "commit": "git-cz",
     "release": "semantic-release"
