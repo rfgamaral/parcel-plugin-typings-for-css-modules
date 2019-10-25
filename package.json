@@ -39,7 +39,7 @@
   "dependencies": {
     "cosmiconfig": "5.2.1",
     "dot-prop": "5.1.1",
-    "typed-css-modules": "0.6.2"
+    "typed-css-modules": "0.6.3"
   },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.4",
