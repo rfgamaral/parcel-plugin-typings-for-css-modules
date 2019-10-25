@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/compare/v1.0.1...v1.0.2) (2019-10-25)
+
+
+### Bug Fixes
+
+* **deps:** bump dot-prop from 5.1.0 to 5.1.1 ([5db0160](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/commit/5db0160))
+* **deps:** bump typed-css-modules from 0.6.2 to 0.6.3 ([e83d306](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/commit/e83d306))
+
 ## [1.0.1](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/compare/v1.0.0...v1.0.1) (2019-10-22)
 
 
