@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "cosmiconfig": "5.2.1",
-    "dot-prop": "5.1.1",
+    "dot-prop": "5.2.0",
     "typed-css-modules": "0.6.3"
   },
   "devDependencies": {
