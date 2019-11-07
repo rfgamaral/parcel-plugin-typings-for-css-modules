@@ -25,9 +25,7 @@
     "access": "public"
   },
   "files": [
-    "lib/**/*",
-    "LICENSE",
-    "README.md"
+    "lib/**/*"
   ],
   "config": {
     "commitizen": {
