@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/compare/v1.0.2...v1.0.3) (2019-12-09)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump serialize-to-js from 3.0.0 to 3.0.2 ([#26](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/issues/26)) ([ca6b258](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/commit/ca6b2582b6953a37b261b44321166adacab679a0))
+* **deps:** bump cosmiconfig from 5.2.1 to 6.0.0 ([#18](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/issues/18)) ([e2f7ba9](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/commit/e2f7ba9ae97b6c2750a6399e000e811df891e295))
+* **deps:** bump dot-prop from 5.1.1 to 5.2.0 ([#17](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/issues/17)) ([89eba39](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/commit/89eba3900985fc70868894730f401aa6385fc2b2))
+
 ## [1.0.2](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/compare/v1.0.1...v1.0.2) (2019-10-25)
 
 
