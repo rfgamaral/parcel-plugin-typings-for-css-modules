@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/compare/v1.0.3...v1.0.4) (2019-12-10)
+
+
+### Bug Fixes
+
+* **asset:** update usage to cosmiconfig new API ([a52380d](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/commit/a52380d8fc113cd4a54b773114aaf9d4cc3bf10f)), closes [#27](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/issues/27)
+
 ## [1.0.3](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules/compare/v1.0.2...v1.0.3) (2019-12-09)
 
 
