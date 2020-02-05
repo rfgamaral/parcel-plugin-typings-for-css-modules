@@ -42,15 +42,15 @@
   "devDependencies": {
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
-    "@semantic-release/changelog": "3.0.6",
-    "@semantic-release/git": "7.0.18",
+    "@semantic-release/changelog": "5.0.0",
+    "@semantic-release/git": "9.0.0",
     "commitizen": "4.0.3",
     "cz-conventional-changelog": "3.1.0",
     "husky": "3.1.0",
     "lint-staged": "10.0.7",
     "parcel-bundler": "1.12.4",
     "prettier": "1.19.1",
-    "semantic-release": "15.14.0"
+    "semantic-release": "17.0.2"
   },
   "peerDependencies": {
     "parcel-bundler": "^1.11.0"
