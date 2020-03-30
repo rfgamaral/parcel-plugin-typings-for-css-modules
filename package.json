@@ -49,7 +49,7 @@
     "husky": "4.2.3",
     "lint-staged": "10.0.8",
     "parcel-bundler": "1.12.4",
-    "prettier": "2.0.1",
+    "prettier": "2.0.2",
     "semantic-release": "17.0.4"
   },
   "peerDependencies": {
