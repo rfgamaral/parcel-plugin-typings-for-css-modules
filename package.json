@@ -53,6 +53,6 @@
     "semantic-release": "17.0.4"
   },
   "peerDependencies": {
-    "parcel-bundler": "^1.11.0"
+    "parcel-bundler": ">=1.11"
   }
 }
