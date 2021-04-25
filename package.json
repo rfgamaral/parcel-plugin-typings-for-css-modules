@@ -37,7 +37,7 @@
   "dependencies": {
     "cosmiconfig": "7.0.0",
     "dot-prop": "6.0.1",
-    "typed-css-modules": "0.6.7"
+    "typed-css-modules": "0.6.8"
   },
   "devDependencies": {
     "@commitlint/cli": "11.0.0",
