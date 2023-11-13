@@ -9350,10 +9350,10 @@ type-fest@^0.8.1:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.8.1.tgz#09e249ebde851d3b1e48d27c105444667f17b83d"
   integrity sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA==
 
-typed-css-modules@0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/typed-css-modules/-/typed-css-modules-0.8.0.tgz#4f5b44163bb43ecc7667f25f23aa044d28983631"
-  integrity sha512-zX9n45IYv27B/85W/b7o+PLmSiLHKSGI/loE8etbIrkVPqB60S7Le7Bkcxl7KR1/visRJRPC/DDFiwx4370FEg==
+typed-css-modules@0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/typed-css-modules/-/typed-css-modules-0.8.1.tgz#80fb06797db14309177a80b6fa675b185af61255"
+  integrity sha512-OhM5FntBI+BvwXHvnApyzUYxFLEU2qxta24FPmz00Qp2nPQsdl+TB7a3vvGa89Z8ug1E2bqIOkSPA3iUaT3UGw==
   dependencies:
     camelcase "^6.0.0"
     chalk "^4.0.0"
